@@ -5,4 +5,4 @@
 
 + 来源：AIWalker
 
-PPLENet的pytorch实现
+PPLCNet的pytorch实现
